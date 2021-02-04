@@ -1,0 +1,1 @@
+Will need to download scene_classification_data from https://drive.google.com/file/d/1rb6UQHkEX7VNwwOHtx99gCEZcZ8hrZtV/view?usp=sharing before running.
